@@ -48,4 +48,4 @@ More info
 
 * [Di ecologia digitale, emissioni di carbonio e pubbliche amministrazioni (parte 1)](https://medium.com/@gpirrotta/di-ecologia-digitale-emissioni-di-carbonio-e-pubbliche-amministrazioni-parte-1-5ec5cd58a52)
 * [Di ecologia digitale, emissioni di carbonio e pubbliche amministrazioni (parte 2)](https://medium.com/@gpirrotta/di-ecologia-digitale-emissioni-di-carbonio-e-pubbliche-amministrazioni-parte-2-70ff56fcf51c)
-* [Di ecologia digitale, emissioni di carbonio e pubbliche amministrazioni (parte 3)]()
+* [Di ecologia digitale, emissioni di carbonio e pubbliche amministrazioni (parte 3)](https://medium.com/@gpirrotta/di-ecologia-digitale-emissioni-di-carbonio-e-pubbliche-amministrazioni-parte-3-86aec561e303)
